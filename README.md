@@ -1,4 +1,4 @@
 # chatengine
 svencoop plugin
 
-Because dev is hostile to the modded server, and no longer interested in maintaining server, the plugin is made public
+Because of dev's animosity towards modded server, and no longer interested in maintaining server, the plugin is made public
