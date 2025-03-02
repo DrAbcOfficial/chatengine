@@ -1,0 +1,4 @@
+namespace CVar
+{
+    CCVar@ pRootPath;
+}
